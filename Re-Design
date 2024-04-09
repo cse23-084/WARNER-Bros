@@ -1,5 +1,14 @@
 <!doctype html>
 <html>
-<head>
-</head>
+  <head>
+    <Title><strong></strong></Title>
+  </head>
+<body>
+  <h1></h1>
+    <p></p>
+  <h2></h2>
+    <p></p>
+  <h3></h3>
+    <p></p>
+</body>
 </html>
