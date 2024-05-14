@@ -9,13 +9,22 @@
           color : white; 
         }
 
+        nav {
+          align-items : right;
+        }
+
+        nav button {
+          border : 10% ;
+          color : white ;
+          background : blue ;
+          font-size : 85% 
+        }
+
          button {
            text-align : right;
            padding : 10px 20px;       
          }
 
-         button : hover { 
-           background-color : red;
-         }
+      
 
   
